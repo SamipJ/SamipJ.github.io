@@ -1,2 +1,3 @@
 name: Samip Jasani, the Learner
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
